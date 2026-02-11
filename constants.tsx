@@ -96,5 +96,5 @@ export const SERVICES: ServiceItem[] = [
 ];
 
 export const WHATSAPP_LINK = "https://wa.me/919272077554";
-export const EMAIL_CONTACT = "workro.contact@gmail.com";
+export const EMAIL_CONTACT = "workro.tech@gmail.com";
 export const PHONE_CONTACT = "+91 9272077554";
